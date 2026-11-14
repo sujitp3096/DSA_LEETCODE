@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Two Pointers
 |  |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Stack
 |  |
@@ -73,4 +75,8 @@
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
