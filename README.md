@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/0007-reverse-integer) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Recursion
 |  |
