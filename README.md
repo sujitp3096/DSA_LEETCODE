@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Two Pointers
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/0011-container-with-most-water) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Linked List
 |  |
 | ------- |
