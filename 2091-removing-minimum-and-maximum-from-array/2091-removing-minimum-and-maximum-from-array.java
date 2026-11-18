@@ -6,13 +6,9 @@ class Solution {
         int maxIndex = 0;
 
         for (int i = 0; i < n; i++) {
-            if (nums[i] < nums[minIndex]) {
-                minIndex = i;
-            }
+            if (nums[i] < nums[minIndex]) minIndex = i;
 
-            if (nums[i] > nums[maxIndex]) {
-                maxIndex = i;
-            }
+            if (nums[i] > nums[maxIndex]) maxIndex = i;
         }
 
         int left = Math.min(minIndex, maxIndex);
