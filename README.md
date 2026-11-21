@@ -11,6 +11,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Two Pointers
@@ -50,10 +51,12 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
 ## String
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -89,4 +92,12 @@
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Tree
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
+## Depth-First Search
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
