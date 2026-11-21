@@ -1,48 +1,40 @@
+ENTER, EXIT = 0, 1
+
 class Solution:
     def findSubtreeSizes(self, parent: List[int], s: str) -> List[int]:
-
         n = len(parent)
 
-        children = [[] for _ in range(n)]
+        # children, stored as an intrusive linked list instead of n little lists
+        first_child = [-1] * n
+        next_sibling = [-1] * n
+        for node in range(n - 1, 0, -1):
+            next_sibling[node] = first_child[parent[node]]
+            first_child[parent[node]] = node
 
-        for i in range(1, n):
-            children[parent[i]].append(i)
+        letter_of = [ord(ch) - ord('a') for ch in s]
+        subtree_size = [1] * n
 
-        new_parent = [-1] * n
-        last = [-1] * 26
+        # ancestors_by_letter[L] = the nodes with letter L on the current
+        # root -> here path, deepest last
+        ancestors_by_letter = [[] for _ in range(26)]
 
-        def dfs(node, ancestor):
-            ch = ord(s[node]) - ord('a')
+        stack = [(0, ENTER)]
+        while stack:
+            node, phase = stack.pop()
+            same_letter_path = ancestors_by_letter[letter_of[node]]
 
-            previous = last[ch]
+            if phase == EXIT:
+                same_letter_path.pop()                      # node leaves the path
+                new_parent = same_letter_path[-1] if same_letter_path else parent[node]
+                if new_parent != -1:
+                    subtree_size[new_parent] += subtree_size[node]
+                continue
 
-            new_parent[node] = previous if previous != -1 else ancestor
+            same_letter_path.append(node)                   # node joins the path
+            stack.append((node, EXIT))                      # revisit after all children
+            child = first_child[node]
+            while child != -1:
+                stack.append((child, ENTER))
+                child = next_sibling[child]
 
-            last[ch] = node
-
-            for child in children[node]:
-                dfs(child, node)
-
-            last[ch] = previous
-
-        dfs(0, -1)
-
-        new_children = [[] for _ in range(n)]
-
-        for i in range(1, n):
-            new_children[new_parent[i]].append(i)
-
-        ans = [0] * n
-
-        def calculate_size(node):
-            size = 1
-
-            for child in new_children[node]:
-                size += calculate_size(child)
-
-            ans[node] = size
-            return size
-
-        calculate_size(0)
-
-        return ans
+        return subtree_size
