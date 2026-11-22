@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Sliding Window
 |  |
