@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/0007-reverse-integer) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Recursion
 |  |
@@ -87,6 +89,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Dynamic Programming
@@ -101,4 +104,12 @@
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
