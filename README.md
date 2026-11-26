@@ -47,6 +47,7 @@
 | [0043-multiply-strings](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/0043-multiply-strings) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3360-stone-removal-game](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Recursion
 |  |
@@ -129,4 +130,5 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/0043-multiply-strings) |
+| [3360-stone-removal-game](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
