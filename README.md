@@ -24,6 +24,7 @@
 | [0015-3sum](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -63,6 +64,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/0043-multiply-strings) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -133,4 +135,20 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/0043-multiply-strings) |
 | [3360-stone-removal-game](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/3360-stone-removal-game) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sujitp3096/DSA_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
